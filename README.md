@@ -10,5 +10,3 @@ Kelas: PGWEB B
 Avatar:
 
 <img src="Avatar\engineer.jpg" width="100">
-
-![Avatar](Avatar\engineer.jpg)
